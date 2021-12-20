@@ -1,0 +1,22 @@
+.Content {
+	width: 100vw;
+	height: 95vh;
+	padding: 48px 10%;
+	overflow-y: auto;
+}
+.Container {
+	width: 100%;
+	height: 95vh;
+	display: flex;
+}
+.Header {
+	width: 100%;
+	height: 48px;
+	background: #ccc;
+}
+
+.Lateral-Menu {
+	min-height: 100%;
+	background: #bbb;
+	width: 30%;
+}
